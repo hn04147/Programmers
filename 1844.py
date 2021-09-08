@@ -20,6 +20,7 @@ def solution(maps):
     return -1
 
 '''
+
 def bfs(start, maps):
     dirs = [(0,1), (1,0), (0,-1), (-1,0)]
     queue = deque()
